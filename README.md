@@ -41,17 +41,15 @@
   <img alt="expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
+  
+<!--
+**romuloromano/romuloromano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div>
-  <br>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloromano&hide_progress=true)](https://github.com/romuloromano/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romuloromano&show_icons=true&theme=dark)
-  
-<!--
-**romuloromano/romuloromano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
